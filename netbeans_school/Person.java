@@ -4,7 +4,7 @@ package netbeans_school;
 --> id datafield became final
 --> toString method changed
 --> added  if/throw block
---> setName/setEmail methods changed to become more strict (بقى ليها شروط معينا)
+--> setName/setEmail methods changed to become more strict (بقى ليها شروط معينا);
 */
 
 
