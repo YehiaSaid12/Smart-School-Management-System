@@ -1,5 +1,5 @@
 package netbeans_school;
-// no significant changes, same as previous classes
+// no significant changes, same as previous classes;
 
 public class Admin extends Person {
     private String department;
